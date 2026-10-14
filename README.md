@@ -38,6 +38,10 @@ BELIEVE!!!!
 <h2 >Algunos proyectos👨🏻‍💻</h2>
 
 
+ 
+<h3 >EN CONSTRUCCIÓN 💻✍️🤓🤓🤖🤖👾👾👽👽🧞🧞🧞👷👷</h3>
+
+
 <br>
 <br><br>
 <br>
