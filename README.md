@@ -14,7 +14,11 @@
 <p align="left">
 🎓 INGENIERO GEÓLOGO
 
-📝 roles en el ámbito: Amo las rocas sedimentarias... líder... geólogo... emprendedor... Me esta gustando mucho la programadcion, aunqueeee es hard... y en un futuro quién sabe ☺️
+📝 roles en el ámbito: Amo las rocas sedimentarias... líder..... soñador..... geólogo... emprendedor... me esta gustando mucho la programación, aunqueeee es hard... y en un futuro quién sabe ☺️
+
+
+BELIEVE!!!!
+
 
 📫 Contacto: **j.eduardo.olan.flores@gmail.com**
 <!--Intro end-->
