@@ -43,11 +43,11 @@ BELIEVE!!!!
 
 Da clic para conocer Boupetique 
 Boupetique es el resultado de un proyecto integrador de una ecommerce sobre venta de alimentos a mascotas como perros y gatos, revisala!!!! 
- href= "http://52.41.121.129/index.html
+<a href= "http://52.41.121.129/index.html> 
 
 
 Da clic para conocer la casa Ravenclaw 
- <p Página interactiva sobre la casa Ravenclaw de Harry potter, ¿ Te gusta no ser parte de donde todos siempre quieren ir? ((cof cofoo Gryffindor)  </p> 
+ Página interactiva sobre la casa Ravenclaw de Harry potter, ¿ Te gusta no ser parte de donde todos siempre quieren ir? ((cof cofoo Gryffindor)!!!!
 <a  href= "https://yoshiblaa.github.io/hackaton-ravenclaw/"   >
 
 <br>
