@@ -40,6 +40,7 @@ BELIEVE!!!!
 
  
 <h3 >ALGUNOS PROYECTOS  💻✍️🤓🤓🤖🤖👾👾👽👽🧞🧞🧞👷👷</h3>
+
 <h3 Da clic para conocer Boupetique </h3>
  <p Boupetique es el resultado de un proyecto integrador de una ecommerce sobre venta de alimentos a mascotas como perros y gatos, revisala!!!! </p> 
 <a  href= "http://52.41.121.129/index.html"   >
